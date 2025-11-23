@@ -52,7 +52,7 @@ export default function Navbar() {
 
         {/* BRAND */}
         <span className="text-lg font-bold text-indigo-300 tracking-tight drop-shadow-[0_0_6px_rgba(88,101,242,0.6)]">
-          Crop Insurance
+          Crop-Defi
         </span>
 
         {/* NAV LINKS */}
