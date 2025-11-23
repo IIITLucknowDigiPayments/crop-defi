@@ -6,6 +6,8 @@
 Crop-Defi is a decentralized parametric crop-insurance platform built using **Solidity**, **Next.js**, **Thirdweb**, and **Hardhat**.  
 The system automates rainfall-triggered payouts for farmers using oracle-fed weather data.
 
+![](frontend/public/Homepage.png)
+
 ---
 
 ## 🚀 Features
@@ -145,3 +147,4 @@ MIT License — free to use, modify, and distribute.
 * Thirdweb
 * Hardhat
 * Chainlink (Oracle inspiration)
+
